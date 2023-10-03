@@ -26,10 +26,11 @@ The Symbols layer gives access to some symbols in addition to the delete key as 
 
 ![Layer 2](layer_screenshots/layer2.png)
 
-The Navigation layer gives access the arrow keys on the right hand, navigation keys on the left hand in addition to a function key row.
+The Navigation layer gives access the arrow keys on the right hand, navigation keys on the left hand in addition to a function key row.  
+In addition to this there are also mouse controls.
 
 ### Layer 3: Numpad
 
 ![Layer 3](layer_screenshots/layer3.png)
 
-The Numpad layer exposes RGB adjustment keys on the right hand.
+The Numpad layer exposes a numpad on the right hand and media and extra function buttons on the left hand.
